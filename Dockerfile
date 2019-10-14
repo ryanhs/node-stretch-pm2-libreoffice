@@ -1,4 +1,4 @@
-FROM node:8.11-stretch
+FROM node:10.16-stretch
 MAINTAINER ryanhs <ryan.hamonangansilalahi@ai.astra.co.id>
 
 # prerequisite
